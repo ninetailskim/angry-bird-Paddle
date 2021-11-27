@@ -40,6 +40,12 @@
 ![](https://ai-studio-static-online.cdn.bcebos.com/b451524e18ef45acbfced6273b6bdebc2bc88270cf314da497bf9e79dee3e553)
 ### 可以来看这个项目 [数据增广+手势识别[Paddlehub+PaddleX]](https://aistudio.baidu.com/aistudio/projectdetail/1923744)
 
+# 下载模型   
+链接：https://pan.baidu.com/s/1n15dxjN4h8FKl8P7nKMQLw 
+提取码：bird 
+### 放在src/mykeypointdetector/output_inference下
+### 这个结构：src/mykeypointdetector/output_inference/hrnet_w32_384x288
+
 # 运行
 ### 在src目录下，运行mymain_thread.py
 ### 当然，现在在AiStudio是没办法运行了，大家在本地玩一下吧~
