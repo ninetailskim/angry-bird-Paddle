@@ -1,0 +1,11 @@
+*pyc
+setup.py
+.idea
+.ropeproject
+src/setup.py
+__pycache__/
+env/
+server/__pycache__
+server/inference_model
+server/mykeypointdetector/output*
+server/mykeypointdetector/mine.mp4
